@@ -1,4 +1,4 @@
-package com.sfdl.chapter1;
+package chapter1;
 
 import static jdk.nashorn.internal.objects.Global.println;
 

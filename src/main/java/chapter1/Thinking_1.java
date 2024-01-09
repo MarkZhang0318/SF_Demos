@@ -1,4 +1,4 @@
-package com.sfdl.chapter1;
+package chapter1;
 
 import java.util.Scanner;
 
